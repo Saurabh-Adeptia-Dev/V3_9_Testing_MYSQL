@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_MAILEVENT>
-        <au_processFlowNumber><![CDATA[0]]></au_processFlowNumber>
         <au_activateFlag><![CDATA[0]]></au_activateFlag>
-        <au_creationMode><![CDATA[Simple]]></au_creationMode>
         <au_mailNotificationAction><![CDATA[null]]></au_mailNotificationAction>
-        <au_subjectCaseSensitive><![CDATA[0]]></au_subjectCaseSensitive>
-        <au_receiverEmailIds><![CDATA[]]></au_receiverEmailIds>
-        <au_revision><![CDATA[null]]></au_revision>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_mailUserId><![CDATA[acsectest@adeptia.com]]></au_mailUserId>
+        <au_ignoreCase><![CDATA[1]]></au_ignoreCase>
         <au_processPerPoll><![CDATA[-1]]></au_processPerPoll>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_eventExpiryDateTime><![CDATA[]]></au_eventExpiryDateTime>
-        <au_entityName><![CDATA[sv_email_event_22]]></au_entityName>
-        <au_encodingUsed><![CDATA[null]]></au_encodingUsed>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_version><![CDATA[1]]></au_version>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_pollingFrequency><![CDATA[30$s]]></au_pollingFrequency>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_modifiedDate><![CDATA[2026-10-13T10:55:42]]></au_modifiedDate>
-        <au_misFireInstructions><![CDATA[ignoreMisfire]]></au_misFireInstructions>
-        <au_port><![CDATA[993]]></au_port>
+        <au_secure><![CDATA[0]]></au_secure>
         <au_oauthAccountId><![CDATA[None]]></au_oauthAccountId>
-        <au_creationDate><![CDATA[2026-10-13T10:55:42]]></au_creationDate>
-        <au_calendarType><![CDATA[null]]></au_calendarType>
-        <au_domain><![CDATA[]]></au_domain>
+        <au_senderCaseSensitive><![CDATA[1]]></au_senderCaseSensitive>
         <au_eventStartDateTime><![CDATA[]]></au_eventStartDateTime>
+        <au_triggerInSequence><![CDATA[0]]></au_triggerInSequence>
+        <au_mailpassword><![CDATA[UeciW2M14zphFxbrC5LmvzbeSVVXN7hwJgDnhGHO8Nc=]]></au_mailpassword>
+        <au_revision><![CDATA[d7a6bfad6212fbc0347fb46d30ee505f92d3f03f]]></au_revision>
+        <au_hostName><![CDATA[imap.gmail.com]]></au_hostName>
         <au_leaveCopyOnServer><![CDATA[1]]></au_leaveCopyOnServer>
-        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
-        <au_senderEmail><![CDATA[sunil@adeptia.com]]></au_senderEmail>
+        <au_port><![CDATA[993]]></au_port>
+        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_creationDate><![CDATA[2026-10-13T10:55:42]]></au_creationDate>
+        <au_version><![CDATA[1]]></au_version>
+        <au_creationMode><![CDATA[Simple]]></au_creationMode>
+        <au_filterCriteria><![CDATA[Src.txt]]></au_filterCriteria>
+        <au_accountId><![CDATA[null]]></au_accountId>
+        <au_mailSubject><![CDATA[hello pf event]]></au_mailSubject>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_description><![CDATA[test]]></au_description>
+        <au_mailContent><![CDATA[]]></au_mailContent>
         <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
         <au_cdoMachine><![CDATA[]]></au_cdoMachine>
-        <au_hostName><![CDATA[imap.gmail.com]]></au_hostName>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_mailContent><![CDATA[]]></au_mailContent>
-        <au_mailSubject><![CDATA[hello pf event]]></au_mailSubject>
-        <au_ignoreCase><![CDATA[1]]></au_ignoreCase>
-        <au_securityType><![CDATA[SSL]]></au_securityType>
-        <au_filterCriteria><![CDATA[Src.txt]]></au_filterCriteria>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_mailpassword><![CDATA[UeciW2M14zphFxbrC5LmvzbeSVVXN7hwJgDnhGHO8Nc=]]></au_mailpassword>
+        <au_eventExpiryDateTime><![CDATA[]]></au_eventExpiryDateTime>
+        <au_senderEmail><![CDATA[sunil@adeptia.com]]></au_senderEmail>
         <au_businessInterval><![CDATA[null]]></au_businessInterval>
-        <au_id><![CDATA[010032028017179188894182800106]]></au_id>
-        <au_mailUserId><![CDATA[acsectest@adeptia.com]]></au_mailUserId>
-        <au_secure><![CDATA[0]]></au_secure>
-        <au_triggerInSequence><![CDATA[0]]></au_triggerInSequence>
-        <au_description><![CDATA[test]]></au_description>
-        <au_accountId><![CDATA[null]]></au_accountId>
-        <au_senderCaseSensitive><![CDATA[1]]></au_senderCaseSensitive>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_pollingFrequency><![CDATA[30$s]]></au_pollingFrequency>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_calendarType><![CDATA[null]]></au_calendarType>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_securityType><![CDATA[SSL]]></au_securityType>
+        <au_receiverEmailIds><![CDATA[]]></au_receiverEmailIds>
+        <au_subjectCaseSensitive><![CDATA[0]]></au_subjectCaseSensitive>
+        <au_entityName><![CDATA[sv_email_event_22_V1]]></au_entityName>
+        <au_encodingUsed><![CDATA[null]]></au_encodingUsed>
+        <au_domain><![CDATA[]]></au_domain>
+        <au_modifiedDate><![CDATA[2026-10-22T12:29:54]]></au_modifiedDate>
         <au_protocol><![CDATA[imap]]></au_protocol>
-        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
+        <au_misFireInstructions><![CDATA[ignoreMisfire]]></au_misFireInstructions>
+        <au_processFlowNumber><![CDATA[0]]></au_processFlowNumber>
+        <au_id><![CDATA[010032028017179188894182800106]]></au_id>
     </AU_MAILEVENT>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>

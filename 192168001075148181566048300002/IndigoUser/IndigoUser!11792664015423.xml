@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_USERS>
-        <au_activateFlag><![CDATA[Activated]]></au_activateFlag>
-        <au_country><![CDATA[null]]></au_country>
-        <au_fax><![CDATA[null]]></au_fax>
-        <au_userPermission><![CDATA[7]]></au_userPermission>
-        <au_title><![CDATA[NA]]></au_title>
-        <PARTNER_OWNER><![CDATA[1]]></PARTNER_OWNER>
-        <au_webDavFolder><![CDATA[null]]></au_webDavFolder>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_sendEmail><![CDATA[0]]></au_sendEmail>
-        <au_certificateStatus><![CDATA[false]]></au_certificateStatus>
-        <au_city><![CDATA[null]]></au_city>
-        <au_lastLogin><![CDATA[1792671808362]]></au_lastLogin>
-        <au_password><![CDATA[fMFVvEFk3gFmM9ewWQkTNg==]]></au_password>
-        <au_revision><![CDATA[null]]></au_revision>
         <au_calendar><![CDATA[null]]></au_calendar>
-        <au_previousVersion><![CDATA[null]]></au_previousVersion>
-        <AU_USERPREFRENCES><![CDATA[null]]></AU_USERPREFRENCES>
-        <AU_LASTMESSAGEVIEWED><![CDATA[null]]></AU_LASTMESSAGEVIEWED>
-        <au_viewLevel><![CDATA[null]]></au_viewLevel>
-        <au_mobile><![CDATA[null]]></au_mobile>
-        <au_firstName><![CDATA[Ashfaque]]></au_firstName>
-        <au_email><![CDATA[ashfaque.ahmad@adeptia.com]]></au_email>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_primaryGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_primaryGroup>
-        <LOCKED_TIME><![CDATA[null]]></LOCKED_TIME>
-        <au_state><![CDATA[null]]></au_state>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_zip><![CDATA[null]]></au_zip>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
-        <au_modifiedDate><![CDATA[2026-10-22T12:23:28]]></au_modifiedDate>
-        <au_comment><![CDATA[NA]]></au_comment>
-        <au_lastPasswordChanged><![CDATA[null]]></au_lastPasswordChanged>
-        <au_keystorePassword><![CDATA[null]]></au_keystorePassword>
         <au_colleague><![CDATA[null]]></au_colleague>
-        <AU_UNIQUEIDENTIFIER><![CDATA[ashfaque]]></AU_UNIQUEIDENTIFIER>
-        <au_lastName><![CDATA[Ahmad]]></au_lastName>
-        <AU_IMAGEIDENTIFIER><![CDATA[null]]></AU_IMAGEIDENTIFIER>
-        <au_description><![CDATA[LDAP user]]></au_description>
-        <au_version><![CDATA[1]]></au_version>
-        <au_creationDate><![CDATA[2026-10-22T12:23:28]]></au_creationDate>
-        <au_orgUrl><![CDATA[null]]></au_orgUrl>
-        <au_manager><![CDATA[null]]></au_manager>
-        <au_orgName><![CDATA[null]]></au_orgName>
-        <au_userType><![CDATA[groupadmin]]></au_userType>
-        <au_id><![CDATA[11792664015423]]></au_id>
-        <au_entityName><![CDATA[ashfaque]]></au_entityName>
-        <au_phone><![CDATA[null]]></au_phone>
-        <au_permissionMask><![CDATA[777]]></au_permissionMask>
-        <au_address1><![CDATA[null]]></au_address1>
-        <au_privateKeyPassword><![CDATA[null]]></au_privateKeyPassword>
-        <au_address2><![CDATA[null]]></au_address2>
+        <au_revision><![CDATA[null]]></au_revision>
         <AU_READ_ONLY_ACCESS><![CDATA[0]]></AU_READ_ONLY_ACCESS>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_previousVersion><![CDATA[null]]></au_previousVersion>
+        <au_firstName><![CDATA[Ashfaque]]></au_firstName>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_comment><![CDATA[NA]]></au_comment>
+        <au_orgName><![CDATA[null]]></au_orgName>
+        <AU_LASTMESSAGEVIEWED><![CDATA[null]]></AU_LASTMESSAGEVIEWED>
+        <au_activateFlag><![CDATA[Activated]]></au_activateFlag>
+        <au_entityName><![CDATA[ashfaque]]></au_entityName>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_primaryGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_primaryGroup>
+        <au_certificateStatus><![CDATA[false]]></au_certificateStatus>
+        <au_userType><![CDATA[groupadmin]]></au_userType>
+        <au_phone><![CDATA[null]]></au_phone>
+        <au_viewLevel><![CDATA[null]]></au_viewLevel>
+        <au_orgUrl><![CDATA[null]]></au_orgUrl>
+        <au_state><![CDATA[null]]></au_state>
+        <au_id><![CDATA[11792664015423]]></au_id>
+        <au_description><![CDATA[LDAP user]]></au_description>
+        <au_address1><![CDATA[null]]></au_address1>
+        <au_email><![CDATA[ashfaque.ahmad@adeptia.com]]></au_email>
+        <au_title><![CDATA[NA]]></au_title>
+        <au_country><![CDATA[null]]></au_country>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_address2><![CDATA[null]]></au_address2>
+        <AU_UNIQUEIDENTIFIER><![CDATA[ashfaque]]></AU_UNIQUEIDENTIFIER>
+        <au_creationDate><![CDATA[2026-10-22T12:23:28]]></au_creationDate>
+        <PARTNER_OWNER><![CDATA[1]]></PARTNER_OWNER>
+        <au_mobile><![CDATA[null]]></au_mobile>
+        <au_version><![CDATA[1]]></au_version>
+        <au_manager><![CDATA[null]]></au_manager>
+        <au_fax><![CDATA[null]]></au_fax>
+        <AU_IMAGEIDENTIFIER><![CDATA[null]]></AU_IMAGEIDENTIFIER>
+        <au_privateKeyPassword><![CDATA[null]]></au_privateKeyPassword>
+        <au_lastLogin><![CDATA[1792671808362]]></au_lastLogin>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_modifiedDate><![CDATA[2026-10-22T12:23:28]]></au_modifiedDate>
+        <au_permissionMask><![CDATA[777]]></au_permissionMask>
+        <au_city><![CDATA[null]]></au_city>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <AU_USERPREFRENCES><![CDATA[null]]></AU_USERPREFRENCES>
+        <LOCKED_TIME><![CDATA[null]]></LOCKED_TIME>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_zip><![CDATA[null]]></au_zip>
+        <au_lastName><![CDATA[Ahmad]]></au_lastName>
+        <au_webDavFolder><![CDATA[null]]></au_webDavFolder>
+        <au_lastPasswordChanged><![CDATA[null]]></au_lastPasswordChanged>
+        <au_password><![CDATA[fMFVvEFk3gFmM9ewWQkTNg==]]></au_password>
+        <au_userPermission><![CDATA[7]]></au_userPermission>
+        <au_sendEmail><![CDATA[0]]></au_sendEmail>
+        <au_keystorePassword><![CDATA[null]]></au_keystorePassword>
     </AU_USERS>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
