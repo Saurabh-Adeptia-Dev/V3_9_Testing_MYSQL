@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_MAILTARGET>
+        <au_ccEmailId><![CDATA[]]></au_ccEmailId>
+        <au_fileName><![CDATA[Trg.txt]]></au_fileName>
+        <au_secure><![CDATA[1]]></au_secure>
+        <au_creationDate><![CDATA[2026-10-13T10:20:34]]></au_creationDate>
         <au_password><![CDATA[UeciW2M14zphFxbrC5LmvzbeSVVXN7hwJgDnhGHO8Nc=]]></au_password>
+        <au_userId><![CDATA[acsectest@adeptia.com]]></au_userId>
+        <au_dataLocation><![CDATA[ATTACHMENT]]></au_dataLocation>
+        <au_hostName><![CDATA[smtp.gmail.com]]></au_hostName>
+        <au_cdoMachine><![CDATA[]]></au_cdoMachine>
+        <au_mailPriority><![CDATA[normal]]></au_mailPriority>
+        <au_oauthAccountId><![CDATA[null]]></au_oauthAccountId>
+        <au_revision><![CDATA[f4156d1273ae6492c85ca83916abf4803b7d16fb]]></au_revision>
+        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_description><![CDATA[tets]]></au_description>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_contentType><![CDATA[plain]]></au_contentType>
+        <au_protocol><![CDATA[smtp]]></au_protocol>
+        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
+        <au_mailSubject><![CDATA[Hi Trg]]></au_mailSubject>
+        <au_securityType><![CDATA[SSL]]></au_securityType>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_bccEmailId><![CDATA[]]></au_bccEmailId>
+        <au_mailHeaders><![CDATA[{}]]></au_mailHeaders>
+        <au_accountId><![CDATA[null]]></au_accountId>
+        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <au_modifiedDate><![CDATA[2026-10-22T12:27:42]]></au_modifiedDate>
+        <au_entityName><![CDATA[sv_mail_trg_V2]]></au_entityName>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_domain><![CDATA[]]></au_domain>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_version><![CDATA[1]]></au_version>
         <au_receiverEmailId><![CDATA[sapna.gupta@adeptia.com]]></au_receiverEmailId>
         <au_comments><![CDATA[null]]></au_comments>
-        <au_oauthAccountId><![CDATA[null]]></au_oauthAccountId>
-        <au_description><![CDATA[tets]]></au_description>
-        <au_revision><![CDATA[40336cd42f63cbb587a31bdce2164310a7b27847]]></au_revision>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_entityName><![CDATA[sv_mail_trg_V1]]></au_entityName>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_id><![CDATA[010032028017179188683417000075]]></au_id>
         <au_port><![CDATA[465]]></au_port>
         <au_senderEmailId><![CDATA[acsectest@adeptia.com]]></au_senderEmailId>
-        <au_hostName><![CDATA[smtp.gmail.com]]></au_hostName>
-        <au_fileName><![CDATA[Trg.txt]]></au_fileName>
-        <au_userId><![CDATA[acsectest@adeptia.com]]></au_userId>
-        <au_cdoMachine><![CDATA[]]></au_cdoMachine>
-        <au_accountId><![CDATA[null]]></au_accountId>
-        <au_mailHeaders><![CDATA[{}]]></au_mailHeaders>
-        <au_modifiedDate><![CDATA[2026-10-22T12:27:22]]></au_modifiedDate>
-        <au_domain><![CDATA[]]></au_domain>
-        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_bccEmailId><![CDATA[]]></au_bccEmailId>
-        <au_mailSubject><![CDATA[Hi Trg]]></au_mailSubject>
-        <au_version><![CDATA[1]]></au_version>
-        <au_ccEmailId><![CDATA[]]></au_ccEmailId>
-        <au_contentType><![CDATA[plain]]></au_contentType>
-        <au_creationDate><![CDATA[2026-10-13T10:20:34]]></au_creationDate>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_dataLocation><![CDATA[ATTACHMENT]]></au_dataLocation>
-        <au_id><![CDATA[010032028017179188683417000075]]></au_id>
-        <au_secure><![CDATA[1]]></au_secure>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_protocol><![CDATA[smtp]]></au_protocol>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
-        <au_mailPriority><![CDATA[normal]]></au_mailPriority>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
-        <au_securityType><![CDATA[SSL]]></au_securityType>
     </AU_MAILTARGET>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
