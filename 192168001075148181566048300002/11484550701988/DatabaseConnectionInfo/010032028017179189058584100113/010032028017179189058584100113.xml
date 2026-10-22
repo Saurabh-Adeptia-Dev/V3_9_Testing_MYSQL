@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_DBCONNECTIONINFO>
-        <au_maxStatements><![CDATA[0]]></au_maxStatements>
-        <au_entityName><![CDATA[sv_oracle_info_V1]]></au_entityName>
-        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
-        <au_version><![CDATA[1]]></au_version>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_modifiedDate><![CDATA[2026-10-22T10:54:03]]></au_modifiedDate>
-        <au_maxIdleTime><![CDATA[10]]></au_maxIdleTime>
-        <au_connectionPool><![CDATA[Hikari]]></au_connectionPool>
-        <au_minPoolSize><![CDATA[3]]></au_minPoolSize>
-        <au_driver><![CDATA[010032028017179189029607200111]]></au_driver>
         <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_creationDate><![CDATA[2026-10-13T11:23:06]]></au_creationDate>
-        <au_transactionIsolation><![CDATA[ReadCommitted]]></au_transactionIsolation>
-        <au_dbUser><![CDATA[qa_oracle_4_8_back]]></au_dbUser>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_driver><![CDATA[010032028017179189029607200111]]></au_driver>
+        <au_checkoutTimeout><![CDATA[1000]]></au_checkoutTimeout>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_dbSchemaName><![CDATA[KRATI]]></au_dbSchemaName>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_maxStatements><![CDATA[0]]></au_maxStatements>
+        <au_entityName><![CDATA[sv_oracle_info_V2]]></au_entityName>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_dbPassword><![CDATA[yCkoLzW3wG6pnCncGfTTMg==]]></au_dbPassword>
         <au_appType><![CDATA[sv_oracle_DD]]></au_appType>
         <au_enablePooling><![CDATA[0]]></au_enablePooling>
+        <au_dbUser><![CDATA[qa_oracle_4_8_back]]></au_dbUser>
+        <au_maxIdleTime><![CDATA[10]]></au_maxIdleTime>
         <au_comments><![CDATA[null]]></au_comments>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_url><![CDATA[jdbc:oracle:thin:@database-2-oracle.ciodldmyslmz.us-east-1.rds.amazonaws.com:1521:ORCL]]></au_url>
-        <au_dbPassword><![CDATA[yCkoLzW3wG6pnCncGfTTMg==]]></au_dbPassword>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
-        <au_initialPoolSize><![CDATA[3]]></au_initialPoolSize>
-        <au_dbSchemaName><![CDATA[KRATI]]></au_dbSchemaName>
-        <au_revision><![CDATA[92de5e4a03695f5fe4402809480ecffea9fe838f]]></au_revision>
-        <au_maxPoolSize><![CDATA[10]]></au_maxPoolSize>
-        <au_checkoutTimeout><![CDATA[1000]]></au_checkoutTimeout>
+        <au_description><![CDATA[test_V2]]></au_description>
+        <au_modifiedDate><![CDATA[2026-10-22T10:54:29]]></au_modifiedDate>
         <au_id><![CDATA[010032028017179189058584100113]]></au_id>
-        <au_description><![CDATA[test]]></au_description>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_revision><![CDATA[63a85e7be68a1565d2e78bc7688ea5568118c806]]></au_revision>
+        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
+        <au_connectionPool><![CDATA[Hikari]]></au_connectionPool>
+        <au_version><![CDATA[1]]></au_version>
+        <au_minPoolSize><![CDATA[3]]></au_minPoolSize>
+        <au_maxPoolSize><![CDATA[10]]></au_maxPoolSize>
+        <au_initialPoolSize><![CDATA[3]]></au_initialPoolSize>
+        <au_transactionIsolation><![CDATA[ReadCommitted]]></au_transactionIsolation>
+        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
+        <au_url><![CDATA[jdbc:oracle:thin:@database-2-oracle.ciodldmyslmz.us-east-1.rds.amazonaws.com:1521:ORCL]]></au_url>
+        <au_creationDate><![CDATA[2026-10-13T11:23:06]]></au_creationDate>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
     </AU_DBCONNECTIONINFO>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
