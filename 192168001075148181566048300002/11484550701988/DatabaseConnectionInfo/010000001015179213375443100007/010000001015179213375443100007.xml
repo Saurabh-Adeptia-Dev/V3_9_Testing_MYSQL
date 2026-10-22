@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_DBCONNECTIONINFO>
-        <au_modifiedDate><![CDATA[2026-10-16T06:55:54]]></au_modifiedDate>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_transactionIsolation><![CDATA[ReadCommitted]]></au_transactionIsolation>
+        <au_maxStatements><![CDATA[0]]></au_maxStatements>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
+        <au_version><![CDATA[1]]></au_version>
+        <au_maxPoolSize><![CDATA[10]]></au_maxPoolSize>
+        <au_previousVersion><![CDATA[null]]></au_previousVersion>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_appType><![CDATA[SG_DD_MySQL]]></au_appType>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_description><![CDATA[SG_DB_Info_MySQL_UsingVault_V1]]></au_description>
+        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
+        <au_checkoutTimeout><![CDATA[1000]]></au_checkoutTimeout>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_initialPoolSize><![CDATA[3]]></au_initialPoolSize>
+        <au_creationDate><![CDATA[2026-10-16T06:55:54]]></au_creationDate>
+        <au_url><![CDATA[jdbc:mysql://{Vault.SG_Vault_DBInfo.Server}:3306/techsupport_ruleengine?useSSL=false]]></au_url>
+        <au_revision><![CDATA[11b2fd33e428e9c411600c37a8bfc750e4244ede]]></au_revision>
+        <au_connectionPool><![CDATA[Hikari]]></au_connectionPool>
+        <au_dbPassword><![CDATA[UXH/FgTVjcS5VOSQn0UJILkUHuu3UChhfAkT9qzIPCmJHoXnp/eLO4OFMWJ0wqpV]]></au_dbPassword>
+        <au_driver><![CDATA[010000001015179213246168300002]]></au_driver>
         <au_dbUser><![CDATA[adeptiasharedactechsupportuser]]></au_dbUser>
         <au_minPoolSize><![CDATA[3]]></au_minPoolSize>
-        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
-        <au_appType><![CDATA[SG_DD_MySQL]]></au_appType>
-        <au_driver><![CDATA[010000001015179213246168300002]]></au_driver>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_dbSchemaName><![CDATA[]]></au_dbSchemaName>
         <au_enablePooling><![CDATA[0]]></au_enablePooling>
-        <au_maxStatements><![CDATA[0]]></au_maxStatements>
-        <au_revision><![CDATA[null]]></au_revision>
         <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_initialPoolSize><![CDATA[3]]></au_initialPoolSize>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_version><![CDATA[1]]></au_version>
-        <au_checkoutTimeout><![CDATA[1000]]></au_checkoutTimeout>
-        <au_creationDate><![CDATA[2026-10-16T06:55:54]]></au_creationDate>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_maxIdleTime><![CDATA[10]]></au_maxIdleTime>
+        <au_modifiedDate><![CDATA[2026-10-22T10:49:31]]></au_modifiedDate>
+        <au_entityName><![CDATA[SG_DB_Info_MySQL_UsingVault_V1]]></au_entityName>
         <au_id><![CDATA[010000001015179213375443100007]]></au_id>
-        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
-        <au_url><![CDATA[jdbc:mysql://{Vault.SG_Vault_DBInfo.Server}:3306/techsupport_ruleengine?useSSL=false]]></au_url>
-        <au_dbPassword><![CDATA[UXH/FgTVjcS5VOSQn0UJILkUHuu3UChhfAkT9qzIPCmJHoXnp/eLO4OFMWJ0wqpV]]></au_dbPassword>
-        <au_maxPoolSize><![CDATA[10]]></au_maxPoolSize>
-        <au_dbSchemaName><![CDATA[null]]></au_dbSchemaName>
-        <au_transactionIsolation><![CDATA[ReadCommitted]]></au_transactionIsolation>
-        <au_connectionPool><![CDATA[Hikari]]></au_connectionPool>
-        <au_entityName><![CDATA[SG_DB_Info_MySQL_UsingVault]]></au_entityName>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_description><![CDATA[SG_DB_Info_MySQL_UsingVault]]></au_description>
-        <au_previousVersion><![CDATA[null]]></au_previousVersion>
+        <au_maxIdleTime><![CDATA[10]]></au_maxIdleTime>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
     </AU_DBCONNECTIONINFO>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
