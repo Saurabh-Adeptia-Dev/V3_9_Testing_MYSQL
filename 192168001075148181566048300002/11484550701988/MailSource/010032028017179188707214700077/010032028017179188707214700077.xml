@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_MAILSOURCE>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_fileName><![CDATA[Src.txt]]></au_fileName>
-        <au_securityType><![CDATA[SSL]]></au_securityType>
-        <au_domain><![CDATA[]]></au_domain>
-        <au_protocol><![CDATA[imap]]></au_protocol>
-        <au_mailSubject><![CDATA[Mail_Source1]]></au_mailSubject>
-        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
-        <au_bodyContentType><![CDATA[text/plain]]></au_bodyContentType>
-        <au_senderEmail><![CDATA[sunil@adeptia.com]]></au_senderEmail>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
-        <au_id><![CDATA[010032028017179188707214700077]]></au_id>
-        <au_secure><![CDATA[0]]></au_secure>
-        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
-        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
-        <au_creationDate><![CDATA[2026-10-13T10:24:32]]></au_creationDate>
-        <au_accountId><![CDATA[null]]></au_accountId>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_cdoMachine><![CDATA[]]></au_cdoMachine>
-        <au_port><![CDATA[993]]></au_port>
-        <au_modifiedDate><![CDATA[2026-10-13T10:33:12]]></au_modifiedDate>
-        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
         <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_version><![CDATA[1]]></au_version>
-        <au_description><![CDATA[test]]></au_description>
-        <au_entityName><![CDATA[sv_mail_src]]></au_entityName>
-        <au_oauthAccountId><![CDATA[None]]></au_oauthAccountId>
-        <au_password><![CDATA[UeciW2M14zphFxbrC5LmvzbeSVVXN7hwJgDnhGHO8Nc=]]></au_password>
+        <au_id><![CDATA[010032028017179188707214700077]]></au_id>
         <au_dataLocation><![CDATA[ATTACHMENT]]></au_dataLocation>
-        <au_leaveCopyOnServer><![CDATA[1]]></au_leaveCopyOnServer>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_domain><![CDATA[]]></au_domain>
+        <au_accountId><![CDATA[null]]></au_accountId>
+        <au_revision><![CDATA[ebcfa0a139883c7a5ed867a2f460488ed4b36fa8]]></au_revision>
+        <au_mailSubject><![CDATA[Mail_Source1]]></au_mailSubject>
+        <au_entityName><![CDATA[sv_mail_src_V1]]></au_entityName>
         <au_hostName><![CDATA[imap.gmail.com]]></au_hostName>
+        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <au_port><![CDATA[993]]></au_port>
+        <au_modifiedDate><![CDATA[2026-10-22T12:28:28]]></au_modifiedDate>
+        <au_protocol><![CDATA[imap]]></au_protocol>
+        <au_bodyContentType><![CDATA[text/plain]]></au_bodyContentType>
+        <au_securityType><![CDATA[SSL]]></au_securityType>
         <au_userId><![CDATA[acsectest@adeptia.com]]></au_userId>
+        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
+        <au_secure><![CDATA[0]]></au_secure>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_senderEmail><![CDATA[sunil@adeptia.com]]></au_senderEmail>
+        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
         <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_description><![CDATA[test]]></au_description>
+        <au_password><![CDATA[UeciW2M14zphFxbrC5LmvzbeSVVXN7hwJgDnhGHO8Nc=]]></au_password>
         <au_mailContent><![CDATA[]]></au_mailContent>
+        <au_version><![CDATA[1]]></au_version>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_oauthAccountId><![CDATA[None]]></au_oauthAccountId>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_creationDate><![CDATA[2026-10-13T10:24:32]]></au_creationDate>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_leaveCopyOnServer><![CDATA[1]]></au_leaveCopyOnServer>
+        <au_fileName><![CDATA[Src.txt]]></au_fileName>
+        <au_cdoMachine><![CDATA[]]></au_cdoMachine>
     </AU_MAILSOURCE>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
