@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_FTPTARGET>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_description><![CDATA[SG_SFTP_Key_Target]]></au_description>
+        <au_ftpsMode><![CDATA[null]]></au_ftpsMode>
+        <au_ftpProtectionLevel><![CDATA[None]]></au_ftpProtectionLevel>
+        <au_port><![CDATA[22]]></au_port>
+        <au_ftpUserId><![CDATA[sftp_key]]></au_ftpUserId>
+        <au_accountId><![CDATA[null]]></au_accountId>
+        <au_id><![CDATA[010000001015179266580625000010]]></au_id>
+        <au_keyManager><![CDATA[KeyManager:010000001015179266591743400012]]></au_keyManager>
+        <au_useJ2SSH><![CDATA[0]]></au_useJ2SSH>
+        <au_entityName><![CDATA[SG_SFTP_Key_Target]]></au_entityName>
+        <au_debugMode><![CDATA[0]]></au_debugMode>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_ftpTimeout><![CDATA[60]]></au_ftpTimeout>
+        <au_connectorName><![CDATA[apacheCamel]]></au_connectorName>
+        <au_ftpValidateServer><![CDATA[0]]></au_ftpValidateServer>
+        <au_modifiedDate><![CDATA[2026-10-22T10:46:08]]></au_modifiedDate>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_filePattern><![CDATA[0|0|Y]]></au_filePattern>
+        <au_ftpOverSSL><![CDATA[0]]></au_ftpOverSSL>
+        <au_secured><![CDATA[1]]></au_secured>
+        <au_transferType><![CDATA[PASSIVE]]></au_transferType>
+        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
+        <au_version><![CDATA[1]]></au_version>
+        <au_remoteFilePath><![CDATA[/upload/Sapna/Target]]></au_remoteFilePath>
+        <au_transferMode><![CDATA[BINARY]]></au_transferMode>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_keyStoreNameForFTP><![CDATA[None]]></au_keyStoreNameForFTP>
+        <au_password><![CDATA[]]></au_password>
+        <au_creationDate><![CDATA[2026-10-22T10:43:26]]></au_creationDate>
+        <au_addOnConfigurations><![CDATA[]]></au_addOnConfigurations>
+        <au_preferredAuthentications><![CDATA[publickey,keyboard-interactive,password]]></au_preferredAuthentications>
+        <au_autoFolderCreation><![CDATA[None]]></au_autoFolderCreation>
+        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
+        <au_hostName><![CDATA[172.176.93.228]]></au_hostName>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_fileName><![CDATA[target.xml]]></au_fileName>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_comments><![CDATA[null]]></au_comments>
+    </AU_FTPTARGET>
+    <columnInfo dbtype="4">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="3"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="3"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_hostName" type="12"/>
+        <column name="au_port" type="4"/>
+        <column name="au_ftpUserId" type="12"/>
+        <column name="au_password" type="12"/>
+        <column name="au_remoteFilePath" type="12"/>
+        <column name="au_fileName" type="12"/>
+        <column name="au_filePattern" type="12"/>
+        <column name="au_autoFolderCreation" type="12"/>
+        <column name="au_transferType" type="12"/>
+        <column name="au_transferMode" type="12"/>
+        <column name="au_secured" type="3"/>
+        <column name="au_ftpOverSSL" type="3"/>
+        <column name="au_ftpsMode" type="12"/>
+        <column name="au_ftpTimeout" type="12"/>
+        <column name="au_ftpProtectionLevel" type="12"/>
+        <column name="au_keyManager" type="12"/>
+        <column name="au_ftpValidateServer" type="3"/>
+        <column name="au_keyStoreNameForFTP" type="12"/>
+        <column name="au_useJ2SSH" type="3"/>
+        <column name="au_connectorName" type="12"/>
+        <column name="au_debugMode" type="3"/>
+        <column name="au_accountId" type="12"/>
+        <column name="au_addOnConfigurations" type="-1"/>
+        <column name="au_preferredAuthentications" type="12"/>
+    </columnInfo>
+</data>
