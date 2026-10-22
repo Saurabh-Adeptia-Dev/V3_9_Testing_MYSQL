@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_GROUPS>
-        <au_title><![CDATA[null]]></au_title>
-        <au_entityName><![CDATA[Group_1]]></au_entityName>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_revision><![CDATA[7917af4610e90ff24b26b12f8abb1446633b10c6]]></au_revision>
-        <au_comment><![CDATA[null]]></au_comment>
-        <au_id><![CDATA[192168001075148181566048300002]]></au_id>
-        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
-        <au_version><![CDATA[1]]></au_version>
-        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
-        <au_description><![CDATA[Dummy Group]]></au_description>
         <au_comments><![CDATA[null]]></au_comments>
-        <au_previousVersion><![CDATA[null]]></au_previousVersion>
-        <au_modifiedDate><![CDATA[2016-12-15T11:00:28]]></au_modifiedDate>
-        <au_permissionMask><![CDATA[711]]></au_permissionMask>
+        <au_version><![CDATA[1]]></au_version>
+        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
+        <au_webDavFolder><![CDATA[WebDavFolder:192168001207112972325504600001]]></au_webDavFolder>
+        <au_revision><![CDATA[59d4751492444659528d47916774fa54390923c5]]></au_revision>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_description><![CDATA[Dummy Group]]></au_description>
+        <au_comment><![CDATA[null]]></au_comment>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
         <au_synchronized><![CDATA[1]]></au_synchronized>
-        <au_creationDate><![CDATA[2016-12-15T10:31:16]]></au_creationDate>
+        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
+        <au_title><![CDATA[null]]></au_title>
+        <au_previousVersion><![CDATA[null]]></au_previousVersion>
         <au_groupInfo><![CDATA[CREDENTIAL-PENDING]]></au_groupInfo>
         <au_projectOwner><![CDATA[Default]]></au_projectOwner>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_webDavFolder><![CDATA[WebDavFolder:192168001207112972325504600001]]></au_webDavFolder>
+        <au_entityName><![CDATA[Group_1]]></au_entityName>
+        <au_creationDate><![CDATA[2016-12-15T10:31:16]]></au_creationDate>
+        <au_id><![CDATA[192168001075148181566048300002]]></au_id>
+        <au_modifiedDate><![CDATA[2016-12-15T11:00:28]]></au_modifiedDate>
+        <au_permissionMask><![CDATA[711]]></au_permissionMask>
     </AU_GROUPS>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
