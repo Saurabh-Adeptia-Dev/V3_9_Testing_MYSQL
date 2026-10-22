@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_DBCONNECTIONINFO>
-        <au_modifiedDate><![CDATA[2026-10-16T06:43:20]]></au_modifiedDate>
-        <au_version><![CDATA[1]]></au_version>
-        <au_dbSchemaName><![CDATA[null]]></au_dbSchemaName>
-        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_creationDate><![CDATA[2026-10-16T06:43:20]]></au_creationDate>
-        <au_driver><![CDATA[010000001015179213246168300002]]></au_driver>
+        <au_dbSchemaName><![CDATA[]]></au_dbSchemaName>
         <au_maxStatements><![CDATA[0]]></au_maxStatements>
-        <au_minPoolSize><![CDATA[3]]></au_minPoolSize>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_appType><![CDATA[SG_DD_MySQL]]></au_appType>
-        <au_initialPoolSize><![CDATA[3]]></au_initialPoolSize>
-        <au_transactionIsolation><![CDATA[ReadCommitted]]></au_transactionIsolation>
-        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
         <au_id><![CDATA[010000001015179213300038500004]]></au_id>
-        <au_url><![CDATA[jdbc:mysql://ad-int-eus2-tech-mysql-010.mysql.database.azure.com:3306/techsupport_ruleengine?useSSL=false]]></au_url>
-        <au_description><![CDATA[SG_DB_Info_MySQL]]></au_description>
-        <au_maxIdleTime><![CDATA[10]]></au_maxIdleTime>
-        <au_connectionPool><![CDATA[Hikari]]></au_connectionPool>
-        <au_entityName><![CDATA[SG_DB_Info_MySQL]]></au_entityName>
-        <au_dbUser><![CDATA[adeptiasharedactechsupportuser]]></au_dbUser>
-        <au_enablePooling><![CDATA[0]]></au_enablePooling>
-        <au_dbPassword><![CDATA[UXH/FgTVjcS5VOSQn0UJILkUHuu3UChhfAkT9qzIPCmJHoXnp/eLO4OFMWJ0wqpV]]></au_dbPassword>
-        <au_previousVersion><![CDATA[null]]></au_previousVersion>
-        <au_comments><![CDATA[null]]></au_comments>
         <au_checkoutTimeout><![CDATA[1000]]></au_checkoutTimeout>
-        <au_maxPoolSize><![CDATA[10]]></au_maxPoolSize>
+        <au_url><![CDATA[jdbc:mysql://ad-int-eus2-tech-mysql-010.mysql.database.azure.com:3306/techsupport_ruleengine?useSSL=false]]></au_url>
+        <au_connectionPool><![CDATA[Hikari]]></au_connectionPool>
+        <au_version><![CDATA[1]]></au_version>
+        <au_minPoolSize><![CDATA[3]]></au_minPoolSize>
+        <au_modifiedDate><![CDATA[2026-10-22T10:51:53]]></au_modifiedDate>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_initialPoolSize><![CDATA[3]]></au_initialPoolSize>
+        <au_description><![CDATA[SG_DB_Info_MySQL_V1]]></au_description>
+        <au_driver><![CDATA[010000001015179213246168300002]]></au_driver>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_transactionIsolation><![CDATA[ReadCommitted]]></au_transactionIsolation>
         <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_revision><![CDATA[048a4065a06fd88d4f5b5fd209139d8c2a0ca570]]></au_revision>
+        <au_dbPassword><![CDATA[UXH/FgTVjcS5VOSQn0UJILkUHuu3UChhfAkT9qzIPCmJHoXnp/eLO4OFMWJ0wqpV]]></au_dbPassword>
+        <au_enablePooling><![CDATA[0]]></au_enablePooling>
+        <au_entityName><![CDATA[SG_DB_Info_MySQL_V1]]></au_entityName>
+        <au_previousVersion><![CDATA[null]]></au_previousVersion>
+        <au_maxIdleTime><![CDATA[10]]></au_maxIdleTime>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_dbUser><![CDATA[adeptiasharedactechsupportuser]]></au_dbUser>
+        <au_userOwner><![CDATA[IndigoUser:11792664015423]]></au_userOwner>
+        <au_modifiedBy><![CDATA[IndigoUser:11792664015423]]></au_modifiedBy>
+        <au_creationDate><![CDATA[2026-10-16T06:43:20]]></au_creationDate>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_appType><![CDATA[SG_DD_MySQL]]></au_appType>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_maxPoolSize><![CDATA[10]]></au_maxPoolSize>
     </AU_DBCONNECTIONINFO>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
